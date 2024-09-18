@@ -1,15 +1,11 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm Hugo!
 
-I'm a [Your Profession/Role] with a passion for [Your Interests/Technologies]. I love working on projects that [What You Enjoy Doing]. Welcome to my GitHub profile!
+I'm a 42 Le Havre student with a passion for Data. I love working on projects that force me to think in an alternate way. Welcome to my GitHub profile!
 
 ## 🌱 About Me
 
-- 🔭 I’m currently working on [Current Projects/Technologies]
-- 🌱 I’m learning [What You’re Learning]
-- 👯 I’m looking to collaborate on [Areas of Interest/Type of Projects]
-- 💬 Ask me about [Topics You’re Knowledgeable About]
-- 📫 How to reach me: [Your Email or Social Media Links]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 🔭 I’m currently working on Inception, a docker project
+- 🌱 I’m learning docker and python
 
 ## 🛠️ Technologies & Tools
 
